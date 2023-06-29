@@ -1,0 +1,46 @@
+.kfc{
+    background-color: red;
+    color: white;
+}
+
+.menu h1{
+    text-align: center;
+}
+
+.container,.container2{
+    background-color: brown;
+    color: white;
+}
+
+.container span{
+    color: black;
+    
+}
+
+.logo img{
+    height: 100px;
+    width: 100px;
+}
+
+.list{
+    font-size: 20px;
+}
+
+.container h1,.container2 h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.container p{
+    font-size: 30px;
+    text-align: justify;
+}
+
+.container span{
+    font-weight: bold;
+}
+
+.container2 ul li{
+    font-size: 25px;
+}
+
